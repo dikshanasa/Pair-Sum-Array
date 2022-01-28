@@ -21,4 +21,10 @@ You are not required to print the output, it has already been taken care of. Jus
 ## Time Limit: 1 sec<br/>
 
 ## Approach:
-<li/>  
+<li/>  create a vector list ans to store our answer.
+<li/> Use 2 'for' loops to find the sum of two elements in the array.
+<li/> Using if condition check that we are not summing 2 same positions.
+<li/> Assign a vector list to store our pairs and sort them in order to match with the required output.
+<li/> Push the pairs in the answer vector .
+<li/> Sort ans to match output.
+<li/> Return ans
